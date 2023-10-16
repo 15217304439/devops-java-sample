@@ -13,7 +13,7 @@ pipeline {
         DOCKER_CREDENTIAL_ID = 'DockerHub'
         GITHUB_CREDENTIAL_ID = 'github-id'
         KUBECONFIG_CREDENTIAL_ID = 'demo-kubeconfig'
-        REGISTRY = 'docker.io'
+        REGISTRY = 'daocloud.io'
         DOCKERHUB_NAMESPACE = '15217304439'
         GITHUB_ACCOUNT = '15217304439'
         APP_NAME = 'devops-java-sample'
