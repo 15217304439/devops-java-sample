@@ -13,10 +13,10 @@ pipeline {
         DOCKER_CREDENTIAL_ID = 'DockerHub'
         GITHUB_CREDENTIAL_ID = 'github-id'
         KUBECONFIG_CREDENTIAL_ID = 'demo-kubeconfig'
-        REGISTRY = 'daocloud.io'
+        REGISTRY = 'registry.cn-guangzhou.aliyuncs.com'
         DOCKERHUB_NAMESPACE = '15217304439'
         GITHUB_ACCOUNT = '15217304439'
-        APP_NAME = 'devops-java-sample'
+        APP_NAME = 'devops-java-sample1'
         SONAR_CREDENTIAL_ID = 'sonar-qube'
     }
 
